@@ -233,3 +233,10 @@ div class="parametro-senha">
     <script src="main.js"></script>
 </body>
 <p class="parametro-senha__texto">12</p>
+width: 50%;
+}
+.forte{
+    background-color: #00FF85;
+    width: 100%;
+}
+<div class="forca fraca"></div>
